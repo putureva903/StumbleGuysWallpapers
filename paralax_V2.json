@@ -1,5 +1,5 @@
 {
-  "Ads": [
+  "Adsx": [
     {
        "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
@@ -27,13 +27,13 @@
 
     }
   ],
-  "Categories": [
+  "Categoriesx": [
     {
       "name_category": "1",
       "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXzV1NYvso3kwimse-WeqadQwKHmSUiZeA2IJ2gLZcvm_8oFbjZz6b7qqV7OGb6OF1DGJXsCXm_JETNRAsYXxlai_KmKNK8YuRCZV39Q2HuqF17DR35Jtdy2MSZif9bNnqYAD4t2qRkld0RxAFRHyyln7bisNRFsrCIwb6phQbzs59f-BBbnfikljhkQ/w900/44.jpg"
     }
   ],
-  "Wallpaper": [
+  "Wallpaperx": [
     {
       "id": 1,
       "name_category": "1",
